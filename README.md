@@ -1,5 +1,9 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniilbabakin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+### Languages and Tools:
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 <!--
 **DaniilBabakin/DaniilBabakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
