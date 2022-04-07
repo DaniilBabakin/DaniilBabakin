@@ -1,4 +1,4 @@
-<img align="left" alt="HTML5" src="https://github.com/DaniilBabakin/DaniilBabakin/blob/main/daniilbabakin.png" style="padding-right:10px; width=100%;height:300px;object-fit:cover" />
+<img alt="HTML5" src="https://github.com/DaniilBabakin/DaniilBabakin/blob/main/daniilbabakin.png" style="padding-right:10px; width=100%;height:300px;object-fit:cover" />
 Hi there 👋
 <br/>
 <br/>
