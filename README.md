@@ -1,6 +1,7 @@
+<img align="left" alt="HTML5" width="100%" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1506&q=80" style="padding-right:10px;" />
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniilbabakin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<img align="left" alt="HTML5" width="26px" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1506&q=80" style="padding-right:10px;" />
+
 
 <br>
 <br>
