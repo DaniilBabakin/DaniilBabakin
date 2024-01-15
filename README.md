@@ -2,7 +2,6 @@
 <h1 align="left">Hi 👋, I'm Daniil</h1>
 <h3 align="left">In love with Web development 😉</h3>
 
--  <h4>🔭 Currently working for Laflei SL</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniil-babakin-05b926236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniil-babakin-05b926236" height="30" width="40" /></a>
